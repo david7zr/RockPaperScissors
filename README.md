@@ -1,2 +1,2 @@
 # RockPaperScissors
-RockPaperScissors developed in Java
+Rock, Paper, Scissors game developed in Java.
